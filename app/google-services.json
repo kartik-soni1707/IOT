@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "544598719548",
+    "firebase_url": "https://smart-cf36a.firebaseio.com",
+    "project_id": "smart-cf36a",
+    "storage_bucket": "smart-cf36a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544598719548:android:57660d5bd3493908cd1739",
+        "android_client_info": {
+          "package_name": "com.example.smarthome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544598719548-5onhbtl1lu4n2gkjc7570qoqlu4ne5ti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smarthome",
+            "certificate_hash": "10dfb71987f0eeeb76a099e5c2f2af70cb63d7d6"
+          }
+        },
+        {
+          "client_id": "544598719548-2902fqtlj82eslq2rsqofdu4jp4cpj4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwlr6WTvrCef2WSBhKPU_Te3DB9OJfTUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544598719548-2902fqtlj82eslq2rsqofdu4jp4cpj4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
